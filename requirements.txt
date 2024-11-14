@@ -1,0 +1,4 @@
+sk-learn
+numpy
+joblib
+streamlit 
